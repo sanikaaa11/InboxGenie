@@ -42,6 +42,7 @@ Processing Pipeline
 
 📁 Project Structure
 
+```
 InboxGenie/
 │
 ├── agents/
@@ -54,22 +55,26 @@ InboxGenie/
 ├── tools/
 │   ├── gmail_tool.py
 │   ├── calendar_tool.py
+│   └── processing_memory.py
 │
 ├── llm/
 │   ├── model.py
 │   └── genai_guard.py
 │
 ├── assets/
-│   └── images/
+│   └── img/
 │       ├── architecture.png
 │       ├── workflow.png
-│       └── pipeline.png
+│       ├── pipeline.png
+│       └── InboxGenie.png
 │
 ├── main.py
 ├── requirements.txt
 ├── blocked_senders.json
 ├── processed_emails.json
 └── README.md
+```
+
 
 ⚙️ Setup
 1. Install dependencies
