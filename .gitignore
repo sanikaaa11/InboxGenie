@@ -1,0 +1,39 @@
+
+
+# Google OAuth keys
+credentials.json
+token.json
+
+# Environment variables
+.env
+
+# Local cache / state
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code & IDE junk
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Kaggle-specific cache
+/kaggle/working/*
+/kaggle/temp/*
+
