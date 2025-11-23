@@ -3,7 +3,7 @@
 AI-powered email assistant that analyzes emails, categorizes them, drafts replies, and schedules meetings using Google Gemini, Gmail API, and Calendar API.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<sanikaaa11>/<repo>/main/banner.png" width="100%" />
+  <img src="assets/InboxGenie.png" width="100%" />
 </p>
 
 <p align="center">
