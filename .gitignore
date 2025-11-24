@@ -17,9 +17,11 @@ __pycache__/
 .vscode/
 .idea/
 
+
 # OS junk
 .DS_Store
 Thumbs.db
+
 
 # Python virtual environments
 venv/
